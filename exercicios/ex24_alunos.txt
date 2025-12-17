@@ -1,0 +1,3 @@
+Gabi; 18; 13131; gabi@gmail.com
+Joao; 19; 3232; joao@gmail.com
+Lucas; 29; 23242; lucas@gmail.com
